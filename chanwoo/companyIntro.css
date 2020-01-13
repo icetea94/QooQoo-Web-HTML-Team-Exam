@@ -1,0 +1,13 @@
+ /* 반응형 웹 */
+ @media all and (max-width: 970px){
+
+    #mainContent{flex-wrap: wrap; flex-direction: column; width: 100%; margin-left: auto; margin-right: auto};
+
+    #img{flex-wrap: wrap; }
+    #imgNumber{ position: static; margin: 0;}
+
+    .mediumFont{margin: 0%; padding:0; width: 95%; margin-left: auto; margin-right: auto;}
+
+
+   
+ }
